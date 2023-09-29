@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 846cbebc-9e52-f111-dfbb-3e143d5f5a5a
+  name: Linear Analysis
+  pageRef: /video_galleries/linear
+  weight: 10
+- identifier: 4f0f5719-a469-9634-caf5-43161dea55c0
+  name: Nonlinear Analysis
+  pageRef: /video_galleries/nonlinear
+  weight: 20
